@@ -1,6 +1,6 @@
 # 🕊️ Entanglemint – Canary
 
-**Last updated:** July 9, 2026  
+**Last updated:** September 23, 2026  
 
 As of the date above, Entanglemint has:
 
